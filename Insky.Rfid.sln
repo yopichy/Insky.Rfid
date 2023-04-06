@@ -1,0 +1,21 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Insky.Rfid", "src\Insky.Rfid.csproj", "{B7470863-EE2E-4CB7-88B9-02F080EA382A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D1B2E1D2-58EC-45FC-A0DF-DB9A42BF4F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7470863-EE2E-4CB7-88B9-02F080EA382A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7470863-EE2E-4CB7-88B9-02F080EA382A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7470863-EE2E-4CB7-88B9-02F080EA382A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7470863-EE2E-4CB7-88B9-02F080EA382A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{B7470863-EE2E-4CB7-88B9-02F080EA382A} = {D1B2E1D2-58EC-45FC-A0DF-DB9A42BF4F5B}
+	EndGlobalSection
+EndGlobal
